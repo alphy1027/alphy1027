@@ -31,8 +31,8 @@ Self-taught Fullstack Web Developer passionate about building scalable, user-foc
 ### 🛠 [Fralon Peanuts – Backend](https://github.com/yourusername/fralon-peanuts-backend)
 > Node.js + MongoDB backend with authentication, cart/order logic, and admin control.
 
-### 📊 [Admin Panel](https://github.com/yourusername/fralon-peanuts-admin)
-> Internal dashboard for managing products, users, and orders.
+### 📊 [Fralon Admin](https://github.com/yourusername/fralon-peanuts-admin)
+> React Admin app for managing products, users, and orders.
 
 ---
 
