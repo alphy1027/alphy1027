@@ -25,13 +25,13 @@ Self-taught Fullstack Web Developer passionate about building scalable, user-foc
 
 ## 🧩 Featured Projects
 
-### 🛒 [Fralon Peanuts – Frontend](https://github.com/yourusername/fralon-peanuts-frontend)
+### 🛒 [Fralon Peanuts – Frontend](https://github.com/alphy1027/fralon-peanuts-app)
 > A responsive React app for browsing and purchasing peanut butter products.
 
-### 🛠 [Fralon Peanuts – Backend](https://github.com/yourusername/fralon-peanuts-backend)
+### 🛠 [Fralon Peanuts – Backend](https://github.com/alph1027/fralon-peanuts-app-backend)
 > Node.js + MongoDB backend with authentication, cart/order logic, and admin control.
 
-### 📊 [Fralon Admin](https://github.com/yourusername/fralon-peanuts-admin)
+### 📊 [Fralon Admin](https://github.com/alphy1027/fralon-peanuts-admin)
 > React Admin app for managing products, users, and orders.
 
 ---
